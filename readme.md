@@ -4,7 +4,7 @@ This is a DRAFT of a lesson for the Programming Historian.  The scope is not mea
 
 Also avoided is a larger discussion of what the python is doing behind the scenes.
 
-Cavats:
+Caveats:
 
 * DRAFT
 * much of this was written on top of a sleeping baby in 10 minute chunks
